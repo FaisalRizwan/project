@@ -1,0 +1,5 @@
+c:\users\aa\documents\visual studio 2010\Projects\ContactTestApp\ContactTestApp\bin\ContactTestApp.dll
+c:\users\aa\documents\visual studio 2010\Projects\ContactTestApp\ContactTestApp\bin\ContactTestApp.pdb
+c:\users\aa\documents\visual studio 2010\Projects\ContactTestApp\ContactTestApp\obj\Debug\ContactTestApp.dll
+c:\users\aa\documents\visual studio 2010\Projects\ContactTestApp\ContactTestApp\obj\Debug\ContactTestApp.pdb
+C:\Users\aa\documents\visual studio 2010\Projects\ContactTestApp\ContactTestApp\obj\Debug\ContactTestApp.csprojResolveAssemblyReference.cache
